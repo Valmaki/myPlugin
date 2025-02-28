@@ -1,4 +1,4 @@
 {
     "version": "1.0",
-    "download_url": "https://github.com/your-repo/releases/latest/download/MyPlugin.jar"
+    "download_url": "https://raw.githubusercontent.com/Valmaki/myPlugin/refs/heads/main/MyPlugin.jar"
 }
